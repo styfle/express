@@ -140,8 +140,8 @@ The current lead maintainer is [Douglas Christopher Wilson](https://github.com/d
 
 [npm-image]: https://img.shields.io/npm/v/express.svg
 [npm-url]: https://npmjs.org/package/express
-[size-image]: https://packagephobia.now.sh/badge?p=express
-[size-url]: https://packagephobia.now.sh/result?p=express
+[size-image]: https://packagephobia.com/badge?p=express
+[size-url]: https://packagephobia.com/result?p=express
 [downloads-image]: https://img.shields.io/npm/dm/express.svg
 [downloads-url]: https://npmjs.org/package/express
 [travis-image]: https://img.shields.io/travis/expressjs/express/master.svg?label=linux
